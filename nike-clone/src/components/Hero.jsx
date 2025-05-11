@@ -28,7 +28,7 @@ function Hero() {
 
         <p className='mt-6 text-gray-500 font-medium'>Also Available On</p>
         <div className='flex gap-4 justify-center md:justify-start mt-2'>
-          <img src={amazon} alt="Amazon" className='h-8' />
+          <img src={amazon} alt="Amazon" className='h-8 drop-shadow' />
           <img src={flipkart} alt="Flipkart" className='h-8' />
         </div>
       </div>
