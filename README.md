@@ -4,10 +4,10 @@ This repository is a collection of mini React.js projects aimed at practicing an
 
 ## 🔗 Live Projects
 
-| Project           | Description                                                                      | Live Link                                              |
-| ----------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 🏀 Nike Clone     | A modern, responsive Nike website clone with animations and reusable components. | [View Site](https://nike-clone-beige.vercel.app/)      |
-| ⚖️ BMI Calculator | A simple tool to calculate Body Mass Index based on user input.                  | [View App]https://bmi-calculator-ten-orpin.vercel.app/ |
+| Project           | Description                                                                      | Live Link                                                |
+| ----------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| 🏀 Nike Clone     | A modern, responsive Nike website clone with animations and reusable components. | [View Site](https://nike-clone-beige.vercel.app/)        |
+| ⚖️ BMI Calculator | A simple tool to calculate Body Mass Index based on user input.                  | [View App](https://bmi-calculator-ten-orpin.vercel.app/) |
 
 > ✨ _More projects to be added soon!_
 
