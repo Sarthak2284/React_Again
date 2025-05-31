@@ -32,11 +32,13 @@ This repository is a collection of mini React.js projects aimed at practicing an
 ├── customReact/
 ├── nike-clone/ ← Nike Clone project
 ├── passwordGenerator/
-├── propsPractice/```
+├── propsPractice/
+
+```
 
 Each folder is a mini React app — run individually using:
 
 ```bash
 npm install
 npm run dev
-````
+```
