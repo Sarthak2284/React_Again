@@ -24,7 +24,7 @@ This repository is a collection of mini React.js projects aimed at practicing an
 
 ## 📁 Folder Structure
 
-React_Again/
+```React_Again/
 ├── 01viteReact/
 ├── 02ViteProject/
 ├── bgChanger/
@@ -32,11 +32,11 @@ React_Again/
 ├── customReact/
 ├── nike-clone/ ← Nike Clone project
 ├── passwordGenerator/
-├── propsPractice/
+├── propsPractice/```
 
 Each folder is a mini React app — run individually using:
 
 ```bash
 npm install
 npm run dev
-```
+````
