@@ -1,6 +1,4 @@
-import React from 'react'
 import { useState } from 'react'
-import Card from './Card'
 function Bodybg({children}) {
     const [color, setColor] = useState("")
   return (
